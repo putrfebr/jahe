@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Jahe",
+        "scientificName": "Zingiber officinale",
+        "image": "img/jahe.jpg",
+        "otherNames": "Ginger",
+        "benefits": [
+            "Jahe memiliki sifat anti-inflamasi, antioksidan, dan membantu pencernaan.",
+            "Bermanfaat untuk meredakan mual, mengatasi flu, dan meningkatkan sirkulasi darah."
+        ],
+        "uses": [
+            "Jahe sering digunakan sebagai bumbu dalam masakan, minuman seperti wedang jahe", 
+            "atau ramuan tradisional untuk menjaga kesehatan tubuh."
+        ]
+    }
+]
